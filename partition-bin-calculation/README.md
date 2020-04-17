@@ -1,4 +1,4 @@
-# Calculate partition/bin boundaries for teh database
+# Calculate partition/bin boundaries for the database
 
 This script calculates the (database) bin/partition borders (in Da*1000000) for peptides
 
